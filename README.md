@@ -13,13 +13,3 @@ $ git clone https://github.com/Mr-dobi/Decom-Marshal
 $ cd Decom-Marshal
 
 $ python2 Decompile-Marshal.py
-
-
-
-
-
-Hanya bisa decompile marshal yg ini
-
-
-import marshal
-exec(marshal.loads('c\x00\x00\x00\x00\x00\x00
